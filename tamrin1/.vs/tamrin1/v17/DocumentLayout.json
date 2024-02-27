@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\NargesHoseini\\tamrin1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92A7041B-DCCD-4BCA-9FA8-E1967894204B}|tamrin1\\tamrin1.csproj|c:\\users\\asus\\desktop\\nargeshoseini\\tamrin1\\tamrin1\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{92A7041B-DCCD-4BCA-9FA8-E1967894204B}|tamrin1\\tamrin1.csproj|solutionrelative:tamrin1\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A7041B-DCCD-4BCA-9FA8-E1967894204B}|tamrin1\\tamrin1.csproj|c:\\users\\asus\\desktop\\nargeshoseini\\tamrin1\\tamrin1\\layout\\navbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92A7041B-DCCD-4BCA-9FA8-E1967894204B}|tamrin1\\tamrin1.csproj|solutionrelative:tamrin1\\layout\\navbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A7041B-DCCD-4BCA-9FA8-E1967894204B}|tamrin1\\tamrin1.csproj|c:\\users\\asus\\desktop\\nargeshoseini\\tamrin1\\tamrin1\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92A7041B-DCCD-4BCA-9FA8-E1967894204B}|tamrin1\\tamrin1.csproj|solutionrelative:tamrin1\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A7041B-DCCD-4BCA-9FA8-E1967894204B}|tamrin1\\tamrin1.csproj|c:\\users\\asus\\desktop\\nargeshoseini\\tamrin1\\tamrin1\\layout\\header.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92A7041B-DCCD-4BCA-9FA8-E1967894204B}|tamrin1\\tamrin1.csproj|solutionrelative:tamrin1\\layout\\header.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A7041B-DCCD-4BCA-9FA8-E1967894204B}|tamrin1\\tamrin1.csproj|c:\\users\\asus\\desktop\\nargeshoseini\\tamrin1\\tamrin1\\layout\\footer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92A7041B-DCCD-4BCA-9FA8-E1967894204B}|tamrin1\\tamrin1.csproj|solutionrelative:tamrin1\\layout\\footer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\NargesHoseini\\tamrin1\\tamrin1\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "tamrin1\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\NargesHoseini\\tamrin1\\tamrin1\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "tamrin1\\wwwroot\\css\\app.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-24T17:52:15.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Navbar.razor",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\NargesHoseini\\tamrin1\\tamrin1\\Layout\\Navbar.razor",
+              "RelativeDocumentMoniker": "tamrin1\\Layout\\Navbar.razor",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\NargesHoseini\\tamrin1\\tamrin1\\Layout\\Navbar.razor",
+              "RelativeToolTip": "tamrin1\\Layout\\Navbar.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-25T10:35:48.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\NargesHoseini\\tamrin1\\tamrin1\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "tamrin1\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\NargesHoseini\\tamrin1\\tamrin1\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "tamrin1\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-24T17:47:44.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Header.razor",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\NargesHoseini\\tamrin1\\tamrin1\\Layout\\Header.razor",
+              "RelativeDocumentMoniker": "tamrin1\\Layout\\Header.razor",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\NargesHoseini\\tamrin1\\tamrin1\\Layout\\Header.razor",
+              "RelativeToolTip": "tamrin1\\Layout\\Header.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-24T17:47:28.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Footer.razor",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\NargesHoseini\\tamrin1\\tamrin1\\Layout\\Footer.razor",
+              "RelativeDocumentMoniker": "tamrin1\\Layout\\Footer.razor",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\NargesHoseini\\tamrin1\\tamrin1\\Layout\\Footer.razor",
+              "RelativeToolTip": "tamrin1\\Layout\\Footer.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-24T17:45:37.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
