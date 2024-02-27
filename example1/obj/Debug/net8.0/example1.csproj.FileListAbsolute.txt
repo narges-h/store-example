@@ -1028,3 +1028,4 @@ C:\Users\User\Desktop\New folder (3)\example1\example1\obj\Debug\net8.0\example1
 C:\Users\User\Desktop\New folder (3)\example1\example1\obj\Debug\net8.0\refint\example1.dll
 C:\Users\User\Desktop\New folder (3)\example1\example1\obj\Debug\net8.0\example1.pdb
 C:\Users\User\Desktop\New folder (3)\example1\example1\obj\Debug\net8.0\ref\example1.dll
+C:\Users\User\Desktop\New folder (3)\example1\example1\obj\Debug\net8.0\example1.sourcelink.json

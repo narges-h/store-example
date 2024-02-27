@@ -1,0 +1,24 @@
+[33mcommit 615b8913379fb60a30c22222694cfdeb6ecf2040[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: ff5f120 86963c6
+Author: tandisSh <tandis00shojaee@gmail.com>
+Date:   Tue Feb 27 22:16:54 2024 +0330
+
+    Merge branch 'master' of https://github.com/narges-h/store-example
+
+[33mcommit ff5f12024775fe79422b0c24b02fef4cdd1b457e[m
+Author: tandisSh <tandis00shojaee@gmail.com>
+Date:   Tue Feb 27 22:13:03 2024 +0330
+
+    init
+
+[33mcommit 86963c6fd313638d779b4f33b8b6ecdc1dbb5987[m
+Author: narges <narges.80.hoseyni@gmail.com>
+Date:   Sun Feb 25 18:10:58 2024 +0330
+
+    create
+
+[33mcommit 56ca2ca24fa828fbf02c12e5ad5a47fad35c8673[m
+Author: narges <132771714+narges-h@users.noreply.github.com>
+Date:   Sun Feb 25 17:58:35 2024 +0330
+
+    Initial commit

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "L+YlnKvzxIvnT7oq+E/nPj3rBFGDxQYO0j1vfTn1R+I=",
+  "Hash": "QLaotyy5phRoU9P1Kb8QzovUaFbB2y9dxqXVa77XdT8=",
   "Source": "example1",
   "BasePath": "/",
   "Mode": "Root",
@@ -7862,6 +7862,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\New folder (3)\\example1\\example1\\wwwroot\\images\\ibolak-logo.png",
+      "SourceId": "example1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\New folder (3)\\example1\\example1\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/ibolak-logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ibolak-logo.png"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\New folder (3)\\example1\\example1\\wwwroot\\images\\sam.png",

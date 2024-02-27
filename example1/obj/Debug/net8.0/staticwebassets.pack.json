@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Id": "C:\\Users\\User\\Desktop\\New folder (3)\\example1\\example1\\wwwroot\\images\\ibolak-logo.png",
+      "PackagePath": "staticwebassets\\images\\ibolak-logo.png"
+    },
+    {
       "Id": "C:\\Users\\User\\Desktop\\New folder (3)\\example1\\example1\\wwwroot\\images\\sam.png",
       "PackagePath": "staticwebassets\\images\\sam.png"
     },
